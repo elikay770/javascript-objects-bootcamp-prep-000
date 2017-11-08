@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var playlist = {
   'Foo Fighters': 'snog' ,
   Prince: 'Purple Rain'
@@ -16,3 +17,7 @@ function removeFromPlaylist(playlist, artist, song) {
 
   return playlist
 }
+=======
+var playlist = {};
+
+>>>>>>> c5589831143c6e83e6d9146a738b194d3e5f2475
